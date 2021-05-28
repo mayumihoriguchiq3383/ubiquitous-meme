@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(192, 247, 181);
+}
+h1{
+    background-color: rgb(177, 243, 146); 
+    color: rgb(12, 182, 55);
+    font-size: 50pt;
+}
+p{
+    color: rgb(0, 1, 7);
+    font-size: 15pt;
+}
+.span1{
+    color: rgb(66, 22, 228);
+}
